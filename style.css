@@ -1,0 +1,39 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to right, #ffc8dd 0%, #ffafcc 100%);
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    background-image: url(cute.jpg);
+}
+
+h4 {
+    color: red;
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+p {
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    padding: 15px;
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin: 10px auto;
+    max-width: 600px;
+}
+
+h3 {
+    color: #a2d2ff;
+    font-size: 1.8em;
+    margin: 20px 0;
+}
+
+i {
+    display: inline-block;
+    margin: 10px 0;
+    padding: 10px;
+    background: #ffc8dd;
+    border-radius: 1px;
+}
